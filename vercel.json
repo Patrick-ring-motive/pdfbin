@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "*.pdfx",
+      "headers" : [
+        {
+          "key" : "Content-Type",
+          "value" : "text/html"
+        }
+      ]
+    }
+  ]
+}

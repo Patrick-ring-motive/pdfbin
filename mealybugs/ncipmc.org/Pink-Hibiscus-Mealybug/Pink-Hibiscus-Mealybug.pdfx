@@ -17,14 +17,14 @@
 <body>
 
   <iframe src="/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.pdf"
-    style="height:100vh;width:100vw;boder:0;" frameBorder="0" scrolling="no"></iframe>
+    style="height:100vh;width:100vw;border:0;position: fixed;top:0;left:0;" frameBorder="0" scrolling="no"></iframe>
 
 
   <script>
     function adjustHeight() {
       var pdf_frame = document.querySelector('iframe');
-      pdf_frame.style.height = window.visualViewport.height + 'px';
-      pdf_frame.style.width = window.visualViewport.width + 'px';
+      pdf_frame.style.height = window.innerHeight + 'px';
+      pdf_frame.style.width = window.innerWidth + 'px';
     }
 
     adjustHeight();

@@ -8,6 +8,14 @@
           "value" : "text/html"
         }
       ]
+    },{
+      "source": "/(.*).pdfm",
+      "headers" : [
+        {
+          "key" : "Content-Type",
+          "value" : "text/html"
+        }
+      ]
     }
   ]
 }

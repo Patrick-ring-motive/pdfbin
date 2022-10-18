@@ -23,8 +23,8 @@
   <script>
     function adjustHeight() {
       var pdf_frame = document.querySelector('iframe');
-      pdf_frame.style.height = window.innerHeight + 'px';
-      pdf_frame.style.width = window.innerWidth + 'px';
+      pdf_frame.style.height = window.screen.height + 'px';
+      pdf_frame.style.width = window.screen.width + 'px';
     }
 
     adjustHeight();

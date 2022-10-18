@@ -31,7 +31,7 @@
     blobURL = URL.createObjectURL(blob);
 
 
-    window.location.href = blobURL;
+    window.location.replace(blobURL);
 window.history.pushState("","","asdf");
   </script>
 

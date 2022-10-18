@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=" scriptsOn" style="--ipt-focus-outline-on-base:none; --ipt-focus-outline-on-baseAlt:none;" style="height:100%;width:100%;">
+<html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=" scriptsOn" style="--ipt-focus-outline-on-base:none; --ipt-focus-outline-on-baseAlt:none;" style="height:100vh;width:100vh;">
 <head> 
   
 <meta property="og:title" content="Pink Hibiscus Mealybug 🧠" />
@@ -9,10 +9,13 @@
 <meta property="og:image:alt" content="🧠" />
   
 </head>
-<body style="height:100%;width:100%;">
+<body style="height:100vh;width:100vw;">
 
-<iframe src="/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.pdf" style="height:100%;width:100%;"></iframe>;
-  
+<iframe src="/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.pdf" style="height:100vh;width:100vw;"></iframe>
+
+
+<script>
+
 </script>
 
 </body>

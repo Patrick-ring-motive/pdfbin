@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"
-  class=" scriptsOn" style="--ipt-focus-outline-on-base:none; --ipt-focus-outline-on-baseAlt:none;"
-  style="height:100vh;width:100vh;">
+  class=" scriptsOn" style="--ipt-focus-outline-on-base:none; --ipt-focus-outline-on-baseAlt:none;"">
 
 <head>
 
-  <meta property="og:title" content="Pink Hibiscus Mealybug 🧠" />
-  <meta property="og:type" content="website" />
-  <meta property="og:url"
-    content="https://pdfbin.vercel.app/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.pdfx" />
-  <meta property="og:image"
-    content="https://pdfbin.vercel.app/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.jpeg" />
-  <meta property="og:image:alt" content="🧠" />
+  <meta property=" og:title" content="Pink Hibiscus Mealybug 🧠" />
+<meta property="og:type" content="website" />
+<meta property="og:url"
+  content="https://pdfbin.vercel.app/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.pdfx" />
+<meta property="og:image"
+  content="https://pdfbin.vercel.app/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.jpeg" />
+<meta property="og:image:alt" content="🧠" />
 
 </head>
 
-<body style="height:100vh;width:100vw;">
+<body>
 
   <iframe src="/mealybugs/ncipmc.org/Pink-Hibiscus-Mealybug/Pink-Hibiscus-Mealybug.pdf"
     style="height:100vh;width:100vw;boder:0;" frameBorder="0" scrolling="no"></iframe>

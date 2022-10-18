@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "*.pdfx",
+      "source": "/(.*).pdfx",
       "headers" : [
         {
           "key" : "Content-Type",

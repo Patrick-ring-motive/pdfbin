@@ -9,6 +9,8 @@ https://www.reddit.com/r/mealybugs
 
 This was created so initially for creating posts on reddit r/mealybugs so you can view the prime examples in the pdfbin links on https://www.reddit.com/r/mealybugs
 
+This repo is hosted at https://pdfbin.vercel.app/ and an example link is https://pdfbin.vercel.app/mealybugs/ncipmc.org/Papaya-Mealybug/Papaya-Mealybug.html
+
 ## Structure
 The form of the structure contains 3 files.
 

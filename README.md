@@ -28,3 +28,6 @@ https://ogp.me/
 https://github.com/ngduc/vercel-express
 
 https://vercel.com/docs/project-configuration
+
+## TODO
+Intending to create a single portable file instead of 3 separate files. This is possible but proved to be more effort than necessary for little gain. Also would have had to probably compress the thumbnail image to less than 2 mb and use blob links for pdfs which are not great for sharing. Might come back to this later. Learned a lot about blob links, data encoding, and image compression from trying so I will keep some examples around in the test folder.

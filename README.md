@@ -1,15 +1,15 @@
 # pdfbin
-
 This is a project to store pdf files for later posting on social media.
 
-The pdfs are preceded by a simple html containing OGP(open graph protocol) so that the social media post links contain preview images and titles.
+## Why
+Currently most social media sites to not provide descriptions or thumbnails for links to pdf files. This project was built specifically for that purpose. The pdfs are preceded by a simple html containing OGP(open graph protocol) so that the social media post links contain preview images and titles. This is a simple and straight forward solution that is necessary until either PDF is made compatable with OGP or OGP is made to read PDF tags.
 
 ## Example
 https://www.reddit.com/r/mealybugs
 
 This was created so initially for creating posts on reddit r/mealybugs so you can view the prime examples in the pdfbin links on https://www.reddit.com/r/mealybugs
 
-## About
+## Structure
 The form of the structure contains 3 files.
 
 *PDF - this is the original .pdf acrobat file that you want to post on social media. You could use any sort of file here but pdf is one of the most used files that is least compatable with OGP and older webscraping methods.

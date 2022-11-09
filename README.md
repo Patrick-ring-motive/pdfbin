@@ -12,9 +12,9 @@ This was created so initially for creating posts on reddit r/mealybugs so you ca
 ## About
 The form of the structure contains 3 files.
 
-*PDF - this is the original .pdf acrobat file that you want to post on social media.
+*PDF - this is the original .pdf acrobat file that you want to post on social media. You could use any sort of file here but pdf is one of the most used files that is least compatable with OGP and older webscraping methods.
 
-*image - this is an image that you want to use as the preview icon on your social media post. OGP is finicky about using different image types so I have elected to use .jpeg formatt since it is the most widely accepted format here.
+*image - this is an image that you want to use as the preview icon on your social media post. OGP is finicky about using different image types so I have elected to use .jpeg format since it is the most widely accepted format there.
 
 *html - this is the html file that contains all of the meta tags related to OGP that are picked up by web scrapers and socal media sites. I also include a redirect meta tag and a javascript redirect that will ensure that the user is only routed through the html page on the first access. Subsequent accesses will go directly to the pdf.
 

@@ -21,7 +21,7 @@ The form of the structure contains 3 files.
 *html - this is the html file that contains all of the meta tags related to OGP that are picked up by web scrapers and socal media sites. I also include a redirect meta tag and a javascript redirect that will ensure that the user is only routed through the html page on the first access. Subsequent accesses will go directly to the pdf.
 
 ### Notes
-OGP has some odd quirks that I came across like not accepting SVG image files. These can be different depending on social media site so your mileage may vary. One difficult thing is that OGP does not accept relative URLs. You must hard code the full length URL. Also you have to use http or https as data URLs are not accepted.
+OGP has some odd quirks that I came across like not accepting SVG image files. These can be different depending on social media site so your mileage may vary. One difficult thing is that OGP does not accept relative URLs. You must hard code the full length URL. Also you have to use http or https as data URLs are not accepted. The links appear at least on reddit to be case sensitive. Case of the link including https must match exactly for the thumbnail to load.
 
 
 

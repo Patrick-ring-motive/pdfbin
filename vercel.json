@@ -2,18 +2,19 @@
   "headers": [
     {
       "source": "/(.*).pdfx",
-      "headers" : [
+      "headers": [
         {
-          "key" : "Content-Type",
-          "value" : "text/html"
+          "key": "Content-Type",
+          "value": "text/html"
         }
       ]
-    },{
+    },
+    {
       "source": "/(.*).pdfm",
-      "headers" : [
+      "headers": [
         {
-          "key" : "Content-Type",
-          "value" : "text/html"
+          "key": "Content-Type",
+          "value": "text/html"
         }
       ]
     }
